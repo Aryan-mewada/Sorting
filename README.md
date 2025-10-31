@@ -41,3 +41,27 @@ The largest element "bubbles up" to the end after each pass.
 - User Input (Scanner)  
 - Swapping Logic  
 
+## 3️⃣ Insertion Sort
+# Insertion Sort in Java
+
+This repository contains a Java implementation of the **Insertion Sort** algorithm.  
+It sorts an array of integers in ascending order by inserting each element into its correct position.
+
+## 💡 Description
+Insertion Sort works like sorting playing cards in your hands.  
+Each new element is compared with the already sorted portion of the array and inserted where it belongs.
+
+## ⚙️ How It Works
+1. User inputs the total number of elements.  
+2. Elements are stored in an array.  
+3. The program picks one element (key) at a time.  
+4. It shifts larger elements to the right and inserts the key in the correct position.  
+5. After all insertions, the array becomes sorted.
+
+## 🧠 Concepts Used
+- Arrays  
+- Loops (`for`, `while`)  
+- Class and Object  
+- User Input (Scanner)  
+- Insertion Logic
+
