@@ -65,3 +65,26 @@ Each new element is compared with the already sorted portion of the array and in
 - User Input (Scanner)  
 - Insertion Logic
 
+## 4️⃣ Selection Sort
+# Selection Sort in Java
+
+This repository contains a Java implementation of the **Selection Sort** algorithm.  
+It sorts an array of integers in ascending order by repeatedly selecting the smallest element from the unsorted part and moving it to the sorted part.
+
+## 💡 Description
+Selection Sort divides the array into two parts — sorted and unsorted.  
+It finds the smallest element from the unsorted section and swaps it with the first unsorted element, gradually expanding the sorted portion.
+
+## ⚙️ How It Works
+1. User inputs the total number of elements.  
+2. Elements are stored in an array.  
+3. The program selects the smallest element in each pass.  
+4. It swaps that element with the current position.  
+5. After all passes, the array becomes fully sorted.
+
+## 🧠 Concepts Used
+- Arrays  
+- Loops (`for`)  
+- Class and Object  
+- User Input (Scanner)  
+- Swapping Logic
